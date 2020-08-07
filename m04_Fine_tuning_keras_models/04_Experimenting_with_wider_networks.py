@@ -43,4 +43,4 @@ We added the argument verbose=False in the fitting commands to print out fewer u
 since you will look at these graphically instead of as text.
 
 Because you are fitting two models, 
-it will take a moment to see the outputs after you hit run, so be patient.
+it will take a moment to see the outputs after you hit run, so be patient. '''
