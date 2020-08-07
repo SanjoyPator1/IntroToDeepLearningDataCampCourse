@@ -16,6 +16,8 @@ model.compile(optimizer = 'adam', loss='categorical_crossentropy', metrics=['acc
 # Fit the model
 model.fit(X, y, validation_split = 0.3)
 
+
+#QUESTION
 ''' You've reached the final exercise of the course - you now know everything 
 you need to build an accurate model to recognize handwritten digits!
 
